@@ -117,7 +117,7 @@ Unauthorized use, reproduction, modification, distribution, or commercial deploy
 
 - **Main Site:** [https://co2nex.org](https://co2nex.org)  
 - **Wallet:** [https://wallet.co2nex.org](https://wallet.co2nex.org) (Coming Soon)  
-- **Map Portal:** [https://map.co2nex.org](https://map.co2nex.org) (Coming Soon)  
+- **Map Portal:** [https://map.co2nex.org](https://map.co2nex.org)  
 
 ---
 
